@@ -61,23 +61,3 @@ Start the Client
   cd frontend
   npm start
 ```
-
-## Views
-
-
-#### Authenticaton
-![](https://i.postimg.cc/FRQ5mkGL/Screenshot-2024-06-26-124620.png)
-![](https://i.postimg.cc/k4JhMNrL/Screenshot-2024-06-26-124559.png)
-
-
-#### Home Page and Profile
-![](https://i.postimg.cc/65Gr4HXn/Screenshot-2024-06-26-125102.png)
-
-
-#### Create Group Chats
-![](https://i.postimg.cc/65b45nSg/Screenshot-2024-06-26-125128.png)
-![](https://i.postimg.cc/90K41jGV/Screenshot-2024-06-26-125149.png)
-
-
-#### One to One Chat
-![](https://i.postimg.cc/xTm3M5mr/Screenshot-2024-06-26-125205.png)
