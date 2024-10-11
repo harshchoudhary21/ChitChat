@@ -18,7 +18,10 @@ Used Socket.io for real time communication and stores user details in encrypted 
 - Database: `MongoDB`
 
 ## Installation
-
+Clone the GitHub Repository
+```bash
+  https://github.com/harshchoudhary21/ChitChat.git
+```
 
 
 Go to the project directory
