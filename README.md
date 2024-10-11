@@ -19,11 +19,7 @@ Used Socket.io for real time communication and stores user details in encrypted 
 
 ## Installation
 
-Clone the project
 
-```bash
-  git clone https://github.com/DarshanPatidar11/Chit-Chat.git
-```
 
 Go to the project directory
 
